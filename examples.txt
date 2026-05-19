@@ -1,0 +1,88 @@
+=== Example 1: Email Writer ===
+You: write an email about getting sick leaves
+
+[Email Writer activated]
+Assistant: Subject: Request for Sick Leave
+Dear [Manager's Name],
+
+I hope this message finds you well. I am writing to formally request sick leave due to health issues that have recently arisen. I have been experiencing [briefly explain your symptoms or condition, if comfortable], and I believe it is important for my health and recovery to take some time off.
+
+I kindly request [number of days] days of sick leave, starting from [start date] to [end date]. I will ensure that all my responsibilities are managed in my absence and will provide any necessary updates to my team.
+
+Thank you for your understanding. Please let me know if you require any further information or documentation regarding my condition.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information] 
+
+=== Example 2: Smart Summarizer ===
+You: summarize: The quick brown fox jumps over the lazy dog. This is a test of the summarizer tool. It should reduce the text significantly.
+
+[Smart Summarizer activated]
+Assistant: Summary: A quick fox jumps over a lazy dog.
+
+--- Analytics ---
+Original word count: 24
+Summary word count: 8
+Reduction: 66.7%
+
+=== Example 3: Calculator Tool ===
+You: what is sqrt(144) + 56 * 3?
+
+[Chat Assistant activated]
+Assistant: The result of sqrt(144) + 56 * 3 is 180.0.
+
+=== Example 4: Data Analyzer Tool ===
+You: analyze this data: 10, 20, 30, 40, 50
+
+[Chat Assistant activated]
+Assistant: Count: 5, Sum: 150.0, Average: 30.0, Min: 10.0, Max: 50.0
+
+=== Example 5: News Fetcher Tool ===
+You: get me the latest news about artificial intelligence
+
+[Chat Assistant activated]
+Assistant: **Title**: [10 Essential Photoshop Plugins That Will Transform Your Workflow](https://www.designer-daily.com/10-essential-photoshop-plugins-that-will-transform-your-workflow-226735)  
+**Source**: Designer-daily.com  
+**Description**: Adobe Photoshop is an incredibly powerful tool, but it can also be overwhelming. The right plugins add features, automate tedious tasks, and unlock creative possibilities that would take hours to achieve manually. Whether you need better grid systems, AI-powered tools, and more.
+
+=== Example 6: Web Search Tool ===
+You: search the web for Python programming tips
+
+[Chat Assistant activated]
+Assistant: Here are some web resources with Python programming tips:
+
+1. **[Welcome to Python.org](https://www.python.org/)**  
+   This site provides an overview of Python, emphasizing its clean syntax and ease of learning for both beginners and experienced programmers.
+
+2. **[Python Tutorial - W3Schools](https://www.w3schools.com/python/)**  
+   W3Schools offers a comprehensive tutorial on Python, highlighting its popularity and ease of use for creating web applications.
+
+=== Example 7: Chat Memory ===
+You: What is a computer?
+Assistant: A computer is an electronic device that can process, store, and retrieve data. It performs a wide range of tasks by executing a set of instructions called programs. Computers can be classified into various types, such as personal computers (desktops and laptops), servers, tablets, and smartphones.
+
+Key components of a computer include:
+
+- **Hardware**: The physical parts of a computer, including the central processing unit (CPU), memory (RAM), storage devices (like hard drives and SSDs), and input/output devices (like keyboards and monitors).
+
+- **Software**: Programs and applications that instruct the hardware on how to perform specific tasks. This includes the operating system (like Windows, macOS, or Linux) and various applications (like word processors, web browsers, and games).
+
+Computers are used in many fields such as education, business, healthcare, and entertainment, facilitating tasks such as data analysis, communication, design, and much more.
+
+You: Based on what you told me about computers, what is a quantum computer?
+Assistant: A quantum computer is a type of computing device that uses the principles of quantum mechanics to perform calculations and process data in fundamentally different ways than classical computers. Here are some key points about quantum computers:
+
+1. **Quantum Bits (Qubits)**: Unlike classical bits, which can represent either a 0 or a 1, qubits can exist in a state of superposition, meaning they can represent both 0 and 1 simultaneously. This property allows quantum computers to perform multiple calculations at once.
+
+2. **Entanglement**: Quantum computers leverage another principle of quantum mechanics called entanglement, where the quantum states of two or more qubits become interconnected. Changes to one qubit can instantaneously affect its entangled partners, enabling more complex computations.
+
+3. **Speed and Efficiency**: Quantum computers have the potential to solve certain problems much faster than classical computers. They can handle complex calculations that would take classical computers an impractical amount of time, such as factoring large numbers or simulating quantum systems.
+
+4. **Applications**: Potential applications of quantum computing include cryptography, optimization problems, drug discovery, materials science, and artificial intelligence. These applications could lead to significant advancements in various fields.
+
+5. **Current State**: As of now, quantum computing is still largely experimental, with ongoing research and development to build scalable and error-corrected quantum systems. Various organizations and universities are working on developing quantum computers, but practical, widespread use is still in the future.
+
+In summary, while classical computers are based on binary processing, quantum computers take advantage of the unique behaviors of quantum mechanics to potentially revolutionize computing capabilities.
